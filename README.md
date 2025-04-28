@@ -1,15 +1,3 @@
-Ótimo! Vamos montar o seu **README.md** exatamente como o professor pediu no enunciado que você mandou no começo:  
-- Instruções de instalação,
-- Tecnologias usadas,
-- Prints (local para você colocar depois),
-- Link para testar (web ou APK).
-
-Vou montar profissionalmente pra você já colar no GitHub. 🎯
-
----
-
-# 📄 README.md — Pokédex App
-
 # Pokédex Flutter App
 
 Este projeto é uma aplicação mobile desenvolvida em **Flutter**, que exibe uma Pokédex consumindo dados da **PokéAPI**.  
