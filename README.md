@@ -108,13 +108,5 @@ Não esqueça de:
 
 ## 👾 Contato
 
-Feito por [Seu Nome ou Matrícula].
+Feito por Samuel Lago
 
----
-
-### 🔥 PRONTINHO para você colocar no GitHub!
-
----
-
-Quer que eu também te mande uma **versão já com emojis** para deixar ainda mais bonito? 🚀  
-Quer? 🎯
