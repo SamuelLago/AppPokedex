@@ -61,11 +61,7 @@ _(Adicione aqui prints da tela de login, cadastro, pokédex e detalhes de Pokém
 
 ## 📦 Link para Testar o App
 
-- 🔗 [Versão Web pelo FlutLab](https://flutlab.io/project-link-aqui)
-- ou
-- 🔗 [Baixar APK](https://link-do-apk-aqui)
-
-_(Substitua pelos seus links gerados no FlutLab ou onde você hospedar o APK)_
+- 🔗 [Versão Web pelo FlutLab](https://flutlab.io/samuel_lago/pokedex/)
 
 ---
 
@@ -94,15 +90,6 @@ _(Substitua pelos seus links gerados no FlutLab ou onde você hospedar o APK)_
 ## 📚 Créditos
 
 - Projeto desenvolvido como trabalho prático para a disciplina de Desenvolvimento Mobile.
-
----
-
-# 📣 Importante!
-
-Não esqueça de:
-- Gerar o link da versão Web no FlutLab
-- Ou gerar o APK e subir em algum lugar (Google Drive, etc.)
-- Tirar **prints** bonitos do app em funcionamento!
 
 ---
 
