@@ -97,3 +97,9 @@ _(Adicione aqui prints da tela de login, cadastro, pokédex e detalhes de Pokém
 
 Feito por Samuel Lago
 
+## 📷 Imagens
+
+![foto1](https://github.com/user-attachments/assets/b809ada4-ffb3-491b-86b8-868b0f388701)
+![foto2](https://github.com/user-attachments/assets/57c098c3-5c86-4ca6-b2a3-1ce1ee986d48)
+![foto3](https://github.com/user-attachments/assets/3180b07d-cbb2-463e-93a8-cb9d530f1fa6)
+
