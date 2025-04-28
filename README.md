@@ -61,7 +61,7 @@ _(Adicione aqui prints da tela de login, cadastro, pokédex e detalhes de Pokém
 
 ## 📦 Link para Testar o App
 
-- 🔗 [Versão Web pelo FlutLab](https://flutlab.io/samuel_lago/pokedex/)
+- 🔗 [Versão Web pelo FlutLab](https://flutlab.io/samuel_lago/pokedex/https://preview.flutlab.io/samuel_lago/pokedex/)
 
 ---
 
