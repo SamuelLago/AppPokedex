@@ -47,18 +47,6 @@ flutter run
 
 ---
 
-## 🖼️ Prints do App
-
-_(Adicione aqui prints da tela de login, cadastro, pokédex e detalhes de Pokémon)_
-
-> Exemplo:
-> - Tela de Login
-> - Tela de Cadastro
-> - Lista da Pokédex
-> - Detalhes de um Pokémon
-
----
-
 ## 📦 Link para Testar o App
 
 - 🔗 [Versão Web pelo FlutLab](https://preview.flutlab.io/samuel_lago/pokedex/)
